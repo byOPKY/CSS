@@ -1,0 +1,161 @@
+body{
+	background-image:url("img/fondo.png");
+	background-repeat: no-repeat;
+	background-color: black;
+	background-size:100%;
+	font-family: Verdana;
+}
+
+a:hover{
+	background-color: #FFFF00;
+	color:#FF0000;
+}
+a{
+	color: #848484;
+}
+header{
+	
+	padding: 3% 3% 3% 3%;
+}
+
+.summary{
+	background: white;
+	width: 35%;
+	height: 30%;
+    color:black;
+    margin-left: 3%;
+    text-align: justify;
+    padding: 1% 1% 1% 1%;
+    border-radius: 10%;
+	
+}
+.intro{
+	color: white;
+}
+
+.preamble{
+	background: white;
+	width: 35%;
+	height: 30%;
+    color:black;
+    margin-top: 3%;
+    margin-left: 3%;
+    text-align: justify;
+    padding: 1% 1% 1% 1%;
+    border-radius: 10%;
+}
+
+.explanation{
+	background: white;
+	width: 35%;
+	height: 30%;
+    color:black;
+    float:right;
+    margin-right: 3%;
+    margin-top: -51%;
+    text-align: justify;
+    padding: 1% 1% 1% 1%;
+    border-radius: 10%;
+}
+
+.img2{
+	width: 50%;
+	height: 30%;
+	margin-left: 25%;
+}
+
+.participation{
+	background: white;
+	width: 35%;
+	height: 30%;
+    color:black;
+    float: right;
+    margin-right: 3%;
+    margin-top: -8%;
+    text-align: justify;
+    padding: 1% 1% 1% 1%;
+    border-radius: 10%;
+}
+
+.img {
+ 	width: 15%;
+	height: 20%;
+	float: left;
+	margin-top: 3%;
+
+}
+
+.benefits {
+	background: white;
+	float: left;
+	margin-left: 3%;
+	margin-top: 3%;
+ 	width: 20%;
+	height: 20%;
+	text-align: justify;
+	padding: 1% 1% 1% 1%;
+	border-radius: 10%;
+}
+
+.requirements {
+	background: white;
+	width: 92%;
+	height: 40%;
+	float:left;
+	margin-top: 3%;
+	margin-left: 3%;
+	text-align: justify;
+	padding: 1% 1% 1% 1%;
+	border-radius: 10%;
+}
+
+footer{
+	background: white;
+	position: fixed;
+	bottom: 1%;
+    right: 0%;
+    width: 100%;
+    text-align: center;
+	padding: 1% 1% 1% 1%;
+	font-weight: 1em;
+	font-size: 2em;
+}
+
+.sidebar{
+	text-align: center;
+	background: black;
+	clear: both;
+	width: 50%;
+	height: 40%;
+	color: white;
+	margin-left: 35%;
+}
+ul {
+	clear: both;
+    list-style-type: none;
+    margin: 0;
+    padding:0%;
+    width: 50%;
+    background-color: #f1f1f1;
+    }
+    li {
+    display: block;
+    color: #000;
+    text-decoration: none;
+    text-align: center;
+    border-bottom: 2px solid #bbb;
+    padding: 8px 16px;
+}
+.select{
+	text-align: left;
+	width: 100%
+}
+.archives{
+	text-align: left;
+	width: 100%
+}
+.resources{
+	text-align: left;
+	width: 100%
+}
+
